@@ -17,8 +17,8 @@ App Presents information in the view about the temperature, time, date and weath
 
 ## Sample Screens
 <img src="Screenshots/liveSimulator11ProMax.png" width="320" height="560"><img src="Screenshots/offlinSimulator11ProMax.png" width="320" height="560">
-<img src="Screenshots/iPhone8DarkAutoComplete.png" width="320" height="560"><img src="liveiPhone8Dark.png" width="320" height="560">
-<img src="Screenshots/liveiPhone8Simulator.png" width="320" height="560"><img src="iPhone8SimulatorLandscape.png" width="320" height="560">
+<img src="Screenshots/iPhone8DarkAutoComplete.png" width="320" height="560"><img src="Screenshots/liveiPhone8Simulator.png" width="320" height="560">
+<img src="Screenshots/iPhone8SimulatorLandscape.png" width="560" height="320">
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and debugging purposes.
