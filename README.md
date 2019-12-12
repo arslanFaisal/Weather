@@ -37,7 +37,7 @@ You would need a macbook with XCode 11.x installed. I built the app with XCode 1
 - On Launch if app is connected to the internet it automatically fetches forcast for deafult city.
 - Default view when app starts is the Live weather mode.
 - User can move to offline mode by using the segment control at the top.
-- Offline view shows the forcast for Belrin from the json file bundled with in the app.
+- Offline view shows the forcast for Lahore from the json file bundled with in the app.
 
 ## Technical Details
 
