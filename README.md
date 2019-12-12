@@ -63,7 +63,7 @@ Code is divided into following Groups
 
 ### Unit Tests
 - Unit test are written and provide a code coverage of 74.6 percent. see the screenshot attached.
-![Code Coverage](Screenshots/codeCoverage.png)
+![Code Coverage](Screenshots/CodeCoverage.png)
 
 Unit tests are arranged in two subgroups:
 - ViewModel subgroup contains tests written on ViewModels
